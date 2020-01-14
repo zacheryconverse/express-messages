@@ -9,11 +9,11 @@ Build a server that implements all CRUD functionality for a message resource.
 * Create any start scripts that would make your development easier
 
 * build CRUD routes for a message resource:
-  - create a message `/messages`
-  - retrieve a list of all messages (output should be an array of objects)`/messages`
-  - update a specific message `/messages/1`
-  - delete a specific message `/messages/1`
-  - get one specific message  `/messages/1`
+  - create a message `/api/messages`
+  - retrieve a list of all messages (output should be an array of objects)`/api/messages`
+  - update a specific message `/api/messages/1`
+  - delete a specific message `/api/messages/1`
+  - get one specific message  `/api/messages/1`
 
 * Build a database table (write a schema) that can handle a message that looks like the following:
 ```
