@@ -23,10 +23,10 @@ Build a server that implements all CRUD functionality for a message resource.
   message:'What Are You?'
 }
 ```
-# Hints for backend
+# Hints for Backend
 * Use Postman to test your routes
 * Nodemon is your friend :)
-* BodyParser is fairly important
+* Body-parser is fairly important
 
 # Advanced
 
@@ -39,6 +39,6 @@ Build a server that implements all CRUD functionality for a message resource.
 * Using [Material-UI](https://v0.material-ui.com/) and React, build a styled frontend that will: show all messages, allow users to upload, edit, and delete messages.
 * Use [Font Awesome Icons](https://material-ui.com/components/icons/) to add some style to your app.
 
-# Hints for frontend integration
+# Hints for Frontend Integration
 * You will need to revisit webpack/babel in order to set up your React development environment
 * Use express.static to have your server serve the React build directory
