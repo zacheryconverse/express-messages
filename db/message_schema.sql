@@ -8,7 +8,8 @@ DROP DATABASE IF EXISTS messages;
 
 CREATE DATABASE messages;
 
-\c messages;
+\c
+-- USE messages;
 
 CREATE TABLE messages (
 -- build your schema here
